@@ -1,0 +1,38 @@
+[
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Template",
+    "mainClass": "hy.template.App",
+  },
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Material 1: Class",
+    "mainClass": "hy.material1class.App",
+  },
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Material 2: Inheritance",
+    "mainClass": "hy.material2inheritance.App",
+  },
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Material 3: Interface",
+    "mainClass": "hy.material3interface.App",
+  },
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Material 3: Lambda Functions",
+    "mainClass": "hy.material3interface.LambdaFunctions",
+  },
+  {
+    "adapter": "Java",
+    "request": "launch",
+    "label": "Debug Material 8: Database",
+    "mainClass": "hy.material8database.App",
+  },
+]
